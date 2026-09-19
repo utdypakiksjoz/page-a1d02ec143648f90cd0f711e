@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "567cc36fc737fd56444c8cfc",
+  "owner": "utdypakiksjoz",
+  "repo": "page-a1d02ec143648f90cd0f711e",
+  "title": "纵横加速(okvpn)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a1d02ec143648f90cd0f711e",
+      "a": "纵横加速(okvpn)",
+      "b": "Clash Mi服务商官网",
+      "entity": "纵横加速(okvpn)",
+      "brand": "纵横加速(okvpn)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6ed63edd2c70ca700255fd416d4d89bc57d91522aaf6779cfb706e8d18198e60",
+      "content": {
+        "primary_entity": "纵横加速(okvpn)",
+        "keyword1": "纵横加速(okvpn)",
+        "keyword2": "Clash Mi服务商官网",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，月流量从 100GB 到 1000GB，在线设备数从 3 台到 20 台。按年付可节省两个月费用，旗舰版配备 IPLC 专线优化游戏延迟，团队版支持企业定制路由。在 Clash Mi 等客户端中导入订阅地址后即可在手机、电脑和路由器上使用，按实际设备数量挑选套餐更省心。",
+          "AI_HERO_SUBTITLE": "三档套餐适配多设备订阅",
+          "AI_HERO_INTRO": "纵横加速(okvpn)提供基础版、旗舰版和团队版三档订阅，覆盖个人到小型团队的不同设备规模。月流量从 100GB 到 1000GB，在线设备数从 3 台到 20 台，按年付可节省两个月费用。配合 Clash Mi 等客户端导入订阅地址即可使用，按设备与流量需求对号入座。",
+          "AI_VISUAL_TITLE": "纵横加速订阅选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线，5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，定制路由",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURES_INTRO": "按设备数量、月流量和线路需求横向比较三档套餐，找到适合日常使用的配置。",
+          "AI_FEATURE_TITLE_1": "按设备数量选择",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，依据常用终端数量挑选。",
+          "AI_FEATURE_TITLE_2": "按流量规模选择",
+          "AI_FEATURE_TEXT_2": "100GB 适合轻度浏览，300GB 兼顾视频与游戏，1000GB 满足多人共享。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付仅需 ¥150/年、¥350/年或 ¥850/年，相当于节省两个月。",
+          "AI_CLIENTS_TITLE": "客户端订阅配置",
+          "AI_CLIENTS_INTRO": "在手机、电脑和路由器上按设备平台选择 Clash Mi、Clash Verge 或 OpenClash 等客户端，导入订阅地址即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别为 ¥150/年、¥350/年和 ¥850/年，选中套餐后进入购买流程。",
+          "AI_GUIDE_TITLE": "三步完成订阅",
+          "AI_GUIDE_INTRO": "先选定套餐，再查看设备适配要求，最后依照客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "对照设备数量与月流量，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器所使用的客户端，了解对应平台的配置方式。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照 Clash Mi 等客户端文档导入订阅地址，完成节点加载与连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按设备规模选对套餐",
+          "AI_CLOSING_TEXT": "先从三档订阅中确定设备数量与流量，再进入购买流程完成开通。",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_QUESTION_1": "纵横加速(okvpn)的套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "个人轻量使用选基础版，需要同时连接多设备或流媒体游戏加速选旗舰版，十台以上设备或团队协作选团队版。按月流量与设备上限交叉对比即可。",
+          "AI_FAQ_QUESTION_2": "是否支持按年付费？年付有什么优惠？",
+          "AI_FAQ_ANSWER_2": "三个版本均支持按年付费。基础版年付¥150，旗舰版¥350，团队版¥850。相比按月支付十二个月，年付节省约两个月费用。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买后获得订阅链接，在所选客户端中通过订阅导入功能填入链接并更新节点列表。不同客户端操作略有差异，可参照随订阅提供的配置文档。",
+          "AI_FAQ_QUESTION_4": "套餐的在线设备数是否包含手机和电脑？",
+          "AI_FAQ_ANSWER_4": "套餐标注的在线设备数涵盖所有终端，包括手机、电脑和平板等。同一时间超出设备限制时，需要关闭其他设备或升级套餐。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "IPLC专线针对游戏加速与流媒体访问做了优化，适合对延迟和稳定性要求较高的实时应用。普通浏览与下载在全部版本中均有覆盖。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c0c6c787937521adc43bf3efca1b5f369f111dd7bc1464ddadbea8b60a84d03d",
+    "sitemap.xml": "98fa7c6898aac2074aa7e186223f7a5d2736c93bf47e42ad582c98668a6eb12a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "e0d248b48346c06fa633ed8ba5954c481803263f0776abc6f12191fe640d207a"
+}
